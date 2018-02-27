@@ -15,6 +15,9 @@ Okay, notes work!
 
 Zusammenfassung & Präsentation
 
+Note:
+- Zusammenfassung & der Diskussion, Präsentation der Fragen/Erkenntnisse/Ergebnisse 
+
 
 ## Speed Blogs?
 
@@ -27,7 +30,6 @@ Zusammenfassung & Präsentation
 - Spaß!
 
 Note:
-- Zusammenfassung & der Diskussion, Präsentation der Fragen/Erkenntnisse/Ergebnisse 
 - Konkretes Ergebnis 
 - Erhält den Kontext der Diskussion auch für diejenigen, die nicht am Workshop teilnehmen 
 - Schafft Erkenntniswert: Was sind relevante Probleme, welche Aspekte sollten weiter diskutiert werden, was sind Ergebnisse 
