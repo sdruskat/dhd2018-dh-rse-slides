@@ -27,7 +27,11 @@ Zusammenfassung & Präsentation
 - Spaß!
 
 Note:
-Zusammenfassung & der Diskussion, Präsentation der Fragen/Erkenntnisse/Ergebnisse - Konkretes Ergebnis - Erhält den Kontext der Diskussion auch für diejenigen, die nicht am Workshop teilnehmen - Schafft Erkenntniswert: Was sind relevante Probleme, welche Aspekte sollten weiter diskutiert werden, was sind Ergebnisse - Kann eine Botschaft enthalten: Hier gibt es Nachholbedarf, diese Fragen sollten wir diskutieren, es gibt bereits Lösungsansätze für Problem XY
+- Zusammenfassung & der Diskussion, Präsentation der Fragen/Erkenntnisse/Ergebnisse 
+- Konkretes Ergebnis 
+- Erhält den Kontext der Diskussion auch für diejenigen, die nicht am Workshop teilnehmen 
+- Schafft Erkenntniswert: Was sind relevante Probleme, welche Aspekte sollten weiter diskutiert werden, was sind Ergebnisse 
+- Kann eine Botschaft enthalten: Hier gibt es Nachholbedarf, diese Fragen sollten wir diskutieren, es gibt bereits Lösungsansätze für Problem XY
 
 
 
@@ -66,3 +70,21 @@ Ansprechpartner für uns: Freiwillige laut Umfrage
 - Sprecher*in fasst heute zusammen (11:45!)
 - Gruppe editiert (bis 31. März)
 - Veröffentlichung auf dem Blog der AG (<https://dh-rse.github.io/>)
+
+
+
+## Breakout-Gruppen
+
+### Die Spannung steigt
+
+- Gruppen teilen sich auf
+- Ort suchen
+- Los geht's!
+- Fragen an uns (Springer: Alexander Czmiel)  
+<br/>
+<br/>
+### Gemeinsam bringen wir Licht ins Dunkel!
+
+
+
+# VIEL SPAß!
